@@ -1,8 +1,8 @@
 # Ex.No.10
 Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
-## Date:
-## Reg. No.
+## Date: 23-05-2026
+## Reg. No:212224230056
 
 ## Aim:
 To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
@@ -62,5 +62,270 @@ content generation scenarios:
 3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
 4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
 
-## Conclusion:
+
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/ee519a4b-a534-4175-ac4e-028feee09043" />
+
+
+# Procedure
+
+## 1. Introduction to Prompt Patterns
+
+The following prompt patterns were studied and applied:
+
+## Query Decomposition
+
+Breaking a complex query into smaller and manageable parts.
+
+## Decision Making
+
+Providing multiple choices and asking the AI to select one.
+
+## Answer Engineering
+
+Giving detailed formatting and structure instructions.
+
+## Fact Checklist
+
+Ensuring factual accuracy in generated content.
+
+## Tail Generation
+
+Extending the generated content logically.
+
+## Menu Actions
+
+Providing multiple action options to guide the AI.
+
+## Semantic Filter
+
+Controlling tone, language, and style of the output.
+
+---
+
+# Selected Test Case Scenarios
+
+1. Article on Climate Change
+2. Creative Writing – Sci-Fi Short Story
+
+---
+
+# Scenario 1: Article on Climate Change
+
+## Basic Prompt
+
+“Write an article on climate change.”
+
+
+
+# First Draft
+
+Climate change refers to changes in the Earth’s climate caused mainly by human activities. The burning of fossil fuels releases greenhouse gases into the atmosphere, leading to global warming. Climate change causes rising temperatures, melting glaciers, floods, and droughts. Governments and people should work together to reduce pollution and protect nature.
+
+
+# Refined Prompt Using Prompt Techniques
+
+## Query Decomposition
+
+* Define climate change
+* Mention causes
+* Explain effects
+* Provide solutions
+
+## Semantic Filter
+
+* Use educational tone
+* Use simple language
+* Suitable for students
+
+## Answer Engineering
+
+* Include headings
+* Add conclusion
+* Use bullet points where necessary
+
+
+
+# Refined Content
+
+# Climate Change and Its Effects
+
+## Introduction
+
+Climate change is one of the major environmental problems faced by the world today. It refers to long-term changes in temperature and weather conditions.
+
+## Causes of Climate Change
+
+The main causes include:
+
+* Burning fossil fuels
+* Deforestation
+* Industrial pollution
+* Greenhouse gas emissions
+
+## Effects of Climate Change
+
+Climate change affects both humans and nature:
+
+* Increase in global temperature
+* Melting of glaciers
+* Rising sea levels
+* Floods and droughts
+* Loss of biodiversity
+
+## Solutions
+
+The following measures can reduce climate change:
+
+* Using renewable energy
+* Planting trees
+* Reducing plastic usage
+* Conserving electricity and water
+
+## Conclusion
+
+Climate change is a serious global issue. Everyone must work together to protect the environment and create a sustainable future.
+
+
+# Multiple Versions
+
+## Version 1 – Simple Output
+
+Short paragraph with general information.
+
+## Version 2 – Structured Output
+
+Included headings, bullet points, and organized sections.
+
+## Version 3 – Refined Final Output
+
+Improved clarity, educational tone, and detailed explanations.
+
+
+# Final Version
+
+# Climate Change: A Global Challenge
+
+Climate change is a significant environmental issue affecting all countries around the world. Human activities such as burning fossil fuels, deforestation, and industrialization release harmful greenhouse gases into the atmosphere.
+
+These changes result in rising temperatures, melting ice caps, irregular rainfall, floods, and droughts. Climate change also affects agriculture, wildlife, and human health.
+
+To reduce climate change, governments and individuals must promote renewable energy, conserve natural resources, reduce pollution, and spread environmental awareness.
+
+Protecting the Earth is the responsibility of every individual. Small actions today can create a healthier and safer future for the next generation.
+
+---
+
+# Scenario 2: Creative Writing – Sci-Fi Short Story
+
+## Basic Prompt
+
+“Write a short sci-fi story.”
+
+
+# First Draft
+
+In the year 2150, humans started living on Mars. A scientist discovered a strange signal beneath the planet’s surface. The signal came from an ancient alien civilization.
+
+
+
+# Refined Prompt Using Prompt Techniques
+
+## Decision Making
+
+Choose one:
+
+1. Space Adventure
+2. Time Travel
+3. Robot Civilization
+
+Selected: Time Travel
+
+## Tail Generation
+
+Extend the story with:
+
+* Character emotions
+* Conflict
+* Twist ending
+
+## Semantic Filter
+
+* Futuristic tone
+* Creative storytelling style
+
+
+
+# Refined Content
+
+# The Last Time Traveler
+
+In the year 3090, Earth had become empty and silent. Most humans lived underground because pollution had destroyed the environment.
+
+A scientist named Arin invented a machine that could travel through time. He wanted to go back and stop humanity from destroying Earth.
+
+When Arin traveled to the past, he discovered that climate change and human negligence were the real reasons behind Earth’s destruction.
+
+Before returning, he left a warning message:
+“Protect nature before it is too late.”
+
+When Arin returned to the future, he saw green forests, blue skies, and clean rivers once again. His actions had changed history.
+
+
+
+# Multiple Versions
+
+## Version 1 – Basic Story
+
+Very short story with a simple plot.
+
+## Version 2 – Extended Story
+
+Added character details and conflict.
+
+## Version 3 – Final Story
+
+Included emotional depth, futuristic setting, and meaningful conclusion.
+
+
+
+# Final Version
+
+# The Future Beyond Time
+
+The year was 3090. Earth was no longer the beautiful blue planet humans once knew. Thick smoke covered the sky, oceans had dried, and cities were abandoned.
+
+Deep inside an underground laboratory, scientist Arin completed the world’s first time machine. His mission was to travel back in time and prevent humanity’s downfall.
+
+As he entered the glowing portal, Arin arrived in the year 2025. He was amazed to see green forests, birds, and clear rivers.
+
+However, he realized people ignored warnings about environmental destruction. Factories polluted the air, forests disappeared rapidly, and plastic waste covered oceans.
+
+Arin secretly spread awareness messages across the world:
+“Save nature today to protect tomorrow.”
+
+After completing his mission, he returned to 3090. To his surprise, Earth had transformed completely. Clean air filled the atmosphere, trees covered the cities, and people lived peacefully with nature.
+
+Arin smiled with relief. Humanity had finally learned that even small actions can change the future.
+
+---
+
+# Review and Evaluation
+
+| Criteria     | Observation                                        |
+| ------------ | -------------------------------------------------- |
+| Coherence    | Refined prompts produced better structure and flow |
+| Creativity   | Tail generation improved storytelling quality      |
+| Accuracy     | Fact checklist improved correctness                |
+| Tone & Style | Semantic filtering matched the required tone       |
+
+---
+
+# Result
+
+The experiment successfully demonstrated that advanced prompting techniques improve the quality, structure, creativity, and coherence of AI-generated content.
+
+
+
+# Conclusion:
 By applying various prompting techniques, you can generate high-quality content for a wide range of use cases, from business reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
