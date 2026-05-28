@@ -56,16 +56,13 @@ content generation scenarios:
 4.	Evaluate the Output: Review the generated content for clarity, creativity, and accuracy.
 5.	Iterate for Improvement: Based on the feedback, refine the prompts and regenerate the content as needed.
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/ee519a4b-a534-4175-ac4e-028feee09043" />
+
 ## Deliverables:
 1.	First Draft: A basic draft of the report, case study, article, or story generated using simple prompts.
 2.	Refined Content: A more detailed and structured output, achieved by applying more advanced prompt techniques.
 3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
 4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
-
-
-
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/ee519a4b-a534-4175-ac4e-028feee09043" />
-
 
 # Procedure
 
@@ -100,6 +97,8 @@ Providing multiple action options to guide the AI.
 ## Semantic Filter
 
 Controlling tone, language, and style of the output.
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/1ebb74cc-f489-472d-a1f6-cbf785293603" />
 
 ---
 
