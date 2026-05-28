@@ -204,15 +204,44 @@ Improved clarity, educational tone, and detailed explanations.
 
 # Final Version
 
-# Climate Change: A Global Challenge
+## Climate Change: A Global Challenge
 
-Climate change is a significant environmental issue affecting all countries around the world. Human activities such as burning fossil fuels, deforestation, and industrialization release harmful greenhouse gases into the atmosphere.
+## Introduction
 
-These changes result in rising temperatures, melting ice caps, irregular rainfall, floods, and droughts. Climate change also affects agriculture, wildlife, and human health.
+Climate change is one of the biggest environmental challenges faced by the world today. It refers to significant changes in global temperatures and weather conditions over time.
 
-To reduce climate change, governments and individuals must promote renewable energy, conserve natural resources, reduce pollution, and spread environmental awareness.
+## Causes of Climate Change
 
-Protecting the Earth is the responsibility of every individual. Small actions today can create a healthier and safer future for the next generation.
+The major causes include:
+
+* Burning of fossil fuels
+* Deforestation
+* Industrial pollution
+* Excessive greenhouse gas emissions
+
+## Effects of Climate Change
+
+Climate change affects both humans and nature:
+
+* Rising global temperatures
+* Melting glaciers and ice caps
+* Increased floods and droughts
+* Loss of biodiversity
+* Health issues due to pollution
+
+## Prevention and Solutions
+
+Several steps can help reduce climate change:
+
+* Using renewable energy sources
+* Planting more trees
+* Reducing plastic usage
+* Conserving electricity and water
+* Promoting sustainable transportation
+
+## Conclusion
+
+Climate change is a serious issue that requires immediate global action. Governments, industries, and individuals must work together to create a cleaner and safer environment for future generations.
 
 ---
 
@@ -292,23 +321,31 @@ Included emotional depth, futuristic setting, and meaningful conclusion.
 # Final Version
 
 # The Future Beyond Time
+In the year 3090, Earth had become a silent planet filled with abandoned cities and broken machines. Only a few humans remained inside underground colonies. Among them was a young scientist named Arin, who worked on a secret time machine project.
 
-The year was 3090. Earth was no longer the beautiful blue planet humans once knew. Thick smoke covered the sky, oceans had dried, and cities were abandoned.
+Arin believed that humanity’s mistakes could be corrected by traveling back in time. After years of research, the machine was finally activated. Bright blue energy surrounded the laboratory as Arin stepped into the portal.
 
-Deep inside an underground laboratory, scientist Arin completed the world’s first time machine. His mission was to travel back in time and prevent humanity’s downfall.
+He arrived in the year 2025, a time when Earth was still green and full of life. However, he soon realized that changing the past was dangerous. Every small action created unexpected consequences in the future.
 
-As he entered the glowing portal, Arin arrived in the year 2025. He was amazed to see green forests, birds, and clear rivers.
+As Arin searched for a way to save humanity, he discovered a shocking truth — the destruction of Earth was not caused by war or technology, but by human ignorance toward nature and climate change.
 
-However, he realized people ignored warnings about environmental destruction. Factories polluted the air, forests disappeared rapidly, and plastic waste covered oceans.
+Before returning to the future, Arin left behind a message:
+“Protect the Earth before time runs out.”
 
-Arin secretly spread awareness messages across the world:
-“Save nature today to protect tomorrow.”
+When he returned to 3090, something had changed. The skies were blue again, birds filled the air, and Earth had become alive once more.
 
-After completing his mission, he returned to 3090. To his surprise, Earth had transformed completely. Clean air filled the atmosphere, trees covered the cities, and people lived peacefully with nature.
-
+Arin smiled quietly, knowing that even a single message could change history.
 Arin smiled with relief. Humanity had finally learned that even small actions can change the future.
 
 ---
+# Multiple Versions Comparison
+
+| Version               | Characteristics                                                   |
+| --------------------- | ----------------------------------------------------------------- |
+| Basic Prompt Output   | Simple and short content                                          |
+| Refined Prompt Output | Detailed, organized, and informative                              |
+| Final Version         | Polished content with improved clarity, creativity, and structure |
+
 
 # Review and Evaluation
 
